@@ -43,23 +43,23 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="60" height="60" />
 
 ### 📱 Mobile Development
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Dark.svg" width="60" height="60" />
 
 ### 🗄️ Databases
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg"  width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg"  width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg"  width="60" height="60" />
 
 ### 📊 Data Science & Analytics
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Light.svg" width="60" height="60" />
+
+### 👷‍♂️ Engineering Draughtsmanship
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AutoCAD-Light.svg" width="60" height="60" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" width="60" height="60" />
 
 </div>
 
