@@ -78,7 +78,7 @@
 
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aroshan-Methmina&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aroshan-Methmina&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Aroshan-Methmina&show_icons=true&hide_border=true&theme=radical" width="350%" alt="Sumanth's Top Languages">
 |
 
 
