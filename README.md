@@ -100,7 +100,7 @@
 <div align="center">
 <p align="center">
 
-<a href="linkedin.com/in/aroshan-methmina-587784375" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Aroshan-Methmina" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/aroshan-methmina-587784375/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Aroshan-Methmina" height="60" width="60" /></a>
 <a href="https://www.facebook.com/share/1T8HybAkwv/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aroshan-Methmina" height="60" width="60" /></a>
 <a href="https://www.instagram.com/_.aroshan._?igsh=MTU3cjJmZnNqZWU1dA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Aroshan-Methmina" height="60" width="60" /></a>
 </p>
