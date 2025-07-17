@@ -31,11 +31,11 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40" />
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" />
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="40" height="40" />
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" />
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="40" height="40" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="60" height="60" />
 
 ### 🌐 Web Development
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
