@@ -70,7 +70,7 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Aroshan's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | |
 | ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Aroshan-Methmina&show_icons=true&theme=algolia)              | 
