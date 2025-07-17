@@ -65,6 +65,7 @@
 
 ---
 
+<div align="center">
 
 ## GitHub Stats
 
@@ -87,3 +88,5 @@
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
+
+</div>
