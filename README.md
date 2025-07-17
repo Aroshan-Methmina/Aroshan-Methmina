@@ -38,8 +38,9 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="60" height="60" />
 
 ### 🌐 Web Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="60" height="60" />
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="60" height="60" />
 
 ### 📱 Mobile Development
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
