@@ -67,7 +67,7 @@
 
 <div align="center">
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 
 |                                                                     Vishal's Stats                                                                     |
