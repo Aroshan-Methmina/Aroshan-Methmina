@@ -111,4 +111,6 @@
 <div align="center">
 <h3 align="center">Thanks For Visiting &nbsp;❤️&nbsp;!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </div>
