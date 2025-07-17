@@ -79,8 +79,7 @@
 
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aroshan-Methmina&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshan-Methmina&langs_count=8&theme=algolia&layout=compact)
-|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aroshan-Methmina&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshan-Methmina&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -90,3 +89,15 @@
   <td width="50%" valign="top">
 
 </div>
+
+---
+
+### ☎️ Connect with me :
+<p align="center">
+
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Aroshan-Methmina" height="60" width="60" /></a>
+<a href="https://www.facebook.com/share/1T8HybAkwv/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aroshan-Methmina" height="60" width="60" /></a>
+<a href="https://www.instagram.com/_.aroshan._?igsh=MTU3cjJmZnNqZWU1dA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Aroshan-Methmina" height="60" width="60" /></a>
+</p>
+
+---
