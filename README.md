@@ -77,9 +77,6 @@
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aroshan-Methmina&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aroshan-Methmina&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshan-Methmina&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -93,6 +90,10 @@
 
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aroshan-Methmina&theme=tokyonight&hide_border=false" alt="Aroshan's streak"/>
+</div>
 ---
 
 ### ☎️ Connect with me :
