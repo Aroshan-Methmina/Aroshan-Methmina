@@ -92,7 +92,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aroshan-Methmina&theme=tokyonight&hide_border=false" alt="Aroshan's streak"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshan-Methmina&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 ---
 
