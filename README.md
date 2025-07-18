@@ -92,7 +92,7 @@
 
 
 <div align="center">
- <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshan-Methmina&layout=compact&langs_count=8&theme=tokyonight"/>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aroshan-Methmina&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 ---
 
